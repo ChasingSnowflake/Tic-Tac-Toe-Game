@@ -21,8 +21,11 @@ A responsive two-player Tic Tac Toe game built using pure HTML, CSS, and JavaScr
 ---
 
 ## 📸 Screenshots
-> *(Add a screenshot of the game screen after uploading)*
-<img src="assets/screenshot.png" width="500"/>
+
+Here’s how the game looks in action! 👇
+
+![Game Screenshot](Images/Game%20ScreenShot.png)
+
 
 ---
 
